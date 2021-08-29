@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:wght@500&display=swap&effect=shadow-multiple');
+// Replaced css2 (version 2) to css
+
 * {
   margin: 0;
   padding: 0;
@@ -14,4 +17,5 @@ body {
 
 h2 {
   font-size: 6em;
+  font-family: 'Poppins', sans-serif;
 }
